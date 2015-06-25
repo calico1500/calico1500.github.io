@@ -1,0 +1,22 @@
+body {
+	background-color: #9900FF;
+	color: white;
+	font-family: 'Press Start 2P', cursive;
+	}
+	
+h1 {
+	text-align: center;
+	font-size: 75px;
+}
+
+#banner_image {
+	width: 50%;
+	display: block;
+	margin: auto;
+}
+
+.middle_images {
+	width: 75%;
+	display: block;
+	margin: auto;
+}
